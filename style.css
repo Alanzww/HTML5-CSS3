@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+    background-color: grey;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    font-size: 20px;
+    }
+
+h1 {
+     color: #000000;
+    margin-top: 20px;
+    }
+
+h2 {
+    color: #4a3030;
+    margin-top: 20px;
+    }
+
+p {
+    color: #333333;
+    text-align: justify;     
+    }
